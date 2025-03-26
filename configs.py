@@ -1,6 +1,6 @@
-TOKEN = '8152888828:AAG4WDPnCte_P8w5UciyWQH3e4g9Zm1oWz4'
-YAPI = "gpt://b1gc2l7f5idksahqj8qk/yandexgpt-lite"
-API_KEY = "Api-Key AQVN072TvTFj7Nxu6yryQEHVH3pH70SgcKQl0pdK"
+TOKEN = ''
+YAPI = ""
+API_KEY = ""
 
 """themes = {
     "world": "В мире 🌍",
